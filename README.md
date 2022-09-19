@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/Impresistem/Smart%20Cloud%20Azure/_apis/build/status/angelsanchez1989.pipelines-java?branchName=main)](https://dev.azure.com/Impresistem/Smart%20Cloud%20Azure/_build/latest?definitionId=1&branchName=main)
 
 # Contributing
 
